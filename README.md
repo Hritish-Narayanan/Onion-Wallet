@@ -25,3 +25,7 @@ Detailed documentation is provided on the security model, Tor setup, air-gapped 
 workflows, and stringent warnings regarding legal/operational boundaries. The project is also
 designed to serve as a professional portfolio piece for exhibiting strong skills in cryptography,
 multi-chain engineering, privacy networking, and secure application design
+
+
+this project is still under construction  
+:)
